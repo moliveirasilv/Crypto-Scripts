@@ -10,6 +10,7 @@ import pandas as pd
 import requests
 import json
 
+"Unica mudança necessária é definir o ticker do pair desejado, ex: BRLLTC"
 
 pages = range(1,599)
 dfs = []
